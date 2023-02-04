@@ -49,6 +49,7 @@ nav ul li a{
 }
 
 .col-2{
+    margin-top: -150px;
     flex-basis: 50%;
     min-width: 300px;
 }
@@ -92,8 +93,6 @@ p{color: gray;}
     margin: 10px 0;
 
 }
-
-
 
 .col-3{
     flex-basis:20%;
