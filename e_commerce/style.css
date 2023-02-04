@@ -87,12 +87,16 @@ p{color: gray;}
     background: #fff;
 
 }
+
 .categories{
-    margin: 70px 0;
+    margin: 10px 0;
 
 }
+
+
+
 .col-3{
-    flex-basis:30%;
+    flex-basis:20%;
     min-width: 250PX;
     margin: auto;
 }
