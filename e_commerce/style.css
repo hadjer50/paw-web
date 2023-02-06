@@ -49,6 +49,7 @@ nav ul li a{
 }
 
 .col-2{
+    margin-top: -150px;
     flex-basis: 50%;
     min-width: 300px;
 }
@@ -84,21 +85,37 @@ p{color: gray;}
 
 .header-section{
     margin-top: -20px;
-    background: radial-gradient(#F9F5DF,#F9F5DF);
+    background: #fff;
 
 }
+<<<<<<< HEAD
 .categories{
     margin: 70px 0;
 
 }
 .col-3{
     flex-basis:30%;
+=======
+
+.categories{
+    margin: 10px 0;
+
+}
+
+.col-3{
+    flex-basis:20%;
+>>>>>>> 7af64143a6ad4267686d8e6ad79bc287f09cef39
     min-width: 250PX;
     margin: auto;
 }
 .col-3 img{
     width: 100;
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 7af64143a6ad4267686d8e6ad79bc287f09cef39
 .container h2{
     text-align: center;
     font-size: 2.2rem;
@@ -106,6 +123,10 @@ p{color: gray;}
     margin: 50px 0;
 }
 .col-4{
+<<<<<<< HEAD
+=======
+    margin-right: 50px;
+>>>>>>> 7af64143a6ad4267686d8e6ad79bc287f09cef39
     flex-basis: 25px;
     min-width: 200px;
     padding: 15px;
@@ -113,14 +134,25 @@ p{color: gray;}
 
 }
 
+<<<<<<< HEAD
 .col-4 img{
 
     width: 200%;
+=======
+.col-4 p{
+    font-size: 20px;
+}
+
+.col-4 img{
+
+    width: 150%;
+>>>>>>> 7af64143a6ad4267686d8e6ad79bc287f09cef39
 
 }
 .col-4 :hover{
     transform: translateY(-10px);
 }
+<<<<<<< HEAD
 #searchbar{
     margin-left: 15%;
     padding:15px;
@@ -147,3 +179,5 @@ p{color: gray;}
 
 
 
+=======
+>>>>>>> 7af64143a6ad4267686d8e6ad79bc287f09cef39
