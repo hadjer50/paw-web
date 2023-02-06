@@ -2,7 +2,7 @@
     margin: 0;
     padding:0;
     box-sizing: border-box;
-    background: radial-gradient(#F9F5DF,#F9F5DF);
+    background:  #fff;
 
 }
 
@@ -11,7 +11,7 @@ h1{
     text-align: center;
     font-size: 50px;
     line-height: 60px;
-    margin: 25px 0;
+    margin: 0px;
     color: #268686;
 }
 
@@ -53,3 +53,13 @@ nav ul li p{
     color: gray;
 }
 
+a{
+    display: inline-block;
+    text-decoration:none;
+    padding: 10px 30px;
+    background: #159ca8;
+    color: white;
+    border-radius: 20px;
+    margin: 30px;
+    font-size: 30px;
+}
