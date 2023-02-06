@@ -87,3 +87,63 @@ p{color: gray;}
     background: radial-gradient(#F9F5DF,#F9F5DF);
 
 }
+.categories{
+    margin: 70px 0;
+
+}
+.col-3{
+    flex-basis:30%;
+    min-width: 250PX;
+    margin: auto;
+}
+.col-3 img{
+    width: 100;
+}
+.container h2{
+    text-align: center;
+    font-size: 2.2rem;
+    color: #444;
+    margin: 50px 0;
+}
+.col-4{
+    flex-basis: 25px;
+    min-width: 200px;
+    padding: 15px;
+    transition: transform 0.4s;
+
+}
+
+.col-4 img{
+
+    width: 200%;
+
+}
+.col-4 :hover{
+    transform: translateY(-10px);
+}
+#searchbar{
+    margin-left: 15%;
+    padding:15px;
+    border-radius: 10px;
+  }
+
+  input[type=text] {
+     width: 30%;
+     -webkit-transition: width 0.15s ease-in-out;
+     transition: width 0.15s ease-in-out;
+  }
+
+  /* When the input field gets focus,
+       change its width to 100% */
+  input[type=text]:focus {
+    width: 70%;
+  }
+
+ #list{
+   font-size:  1.5em;
+   margin-left: 90px;
+  }
+
+
+
+
